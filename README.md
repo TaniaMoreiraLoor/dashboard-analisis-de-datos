@@ -82,4 +82,4 @@ El dashboard incluye:
 ## ✒️ Autor
 
 - Tania Moreira Loor
-- GitHub: [tu usuario]
+- GitHub: https://github.com/TaniaMoreiraLoor
